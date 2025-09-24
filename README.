@@ -1,0 +1,9 @@
+This project analyzes historical global sea level data and predicts future sea level rise through the year 2050. Using Python, Pandas, Matplotlib, and SciPy, the project:
+
+Reads the dataset epa-sea-level.csv containing yearly sea level measurements.
+
+Creates a scatter plot of the data.
+
+Plots a line of best fit using all years to predict the long-term trend.
+
+Plots a line of best fit using data from 2000 onward to predict recent trends.
